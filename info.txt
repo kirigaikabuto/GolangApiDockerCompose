@@ -1,0 +1,6 @@
+1) just docker
+docker run -v C:\Users\77086\go\src\github.com\kirigaikabuto\DockerGolangApi:/app -p 80:80 go-docker-image
+
+2) docker compose up
+
+material https://nuancesprog.ru/p/5966/
